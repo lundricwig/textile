@@ -27,7 +27,6 @@ Local images:
 Code block:
 
 bc. def hello():
-
     print("Hello World!")
 
 Tables:
