@@ -25,10 +25,13 @@ Local images:
 !./images/logo.svg!
 
 Code block:
+
 bc. def hello():
+
     print("Hello World!")
 
 Tables:
+
 |_. Header 1 |_. Header 2 |
 | Cell 1 | Cell 2 |
 
